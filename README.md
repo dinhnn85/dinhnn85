@@ -1,6 +1,8 @@
-# Hi, I'm Dinh Nguyen 👋
+# Dinh Nguyen — Solo Builder
 
-**Road to Indie Dev.** I build small products with AI coding agents (Claude Code), in public, one shipped thing at a time.
+**One person. AI agents. Real products.**
+
+This is where the journey starts: from zero code background to shipping indie products with Claude Code.
 
 <details open>
 <summary><b>⚡ For pros: the short version</b></summary>
@@ -24,6 +26,12 @@ I started without a programming background. If that's you, this is the order tha
 5. **Only then let the agent run on its own**, with a goal it has to prove.
 
 </details>
+
+## 📍 Journey log
+
+| Date | Milestone |
+|---|---|
+| 2026-11-02 | Started here: began the 200Lab Vibe coder path, cleaned up my GitHub |
 
 ---
 
